@@ -24,7 +24,7 @@ Tạo một Client miễn phí trên HiveMQ.
 Đăng ký các topic: `san1`, `san2`, `san3`, `san4`, `fan`.
 
 **Bước 6: Điền thông tin kết nối**  
-Mở form `Form1` và form `DatSan`, điền các thông tin cần thiết ở phần kết nối.
+Mở form `Form1` và form `DatSan`, điền các thông tin cần thiết ở phần connect.
 
 **Bước 7: Tạo tài khoản SMPT để gửi email**  
 1. Đăng nhập vào tài khoản Gmail (phải có bảo mật 2 lớp).  
