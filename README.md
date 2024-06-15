@@ -52,12 +52,18 @@ Mở file code Arduino, nhập tên và mật khẩu WiFi của bạn.
 Kết nối Arduino với máy tính và tải lại code lên Arduino.
 
 **Bước 5: Làm theo các bước cài đặt không có phần cứng**  
-Thực hiện các bước từ (1) đến (9) như đã hướng dẫn ở phần trên và chuẩn bị các phần cứng sau:  
-- Đèn  
-- Quạt  
-- Cảm biến nhiệt độ  
-- Các thiết bị kết nối khác  
-
+Thực hiện các bước từ (1) đến (9) như đã hướng dẫn ở phần trên và chuẩn bị các phần cứng sau:
+- Giao diện Module: SD card, UART, SPI, SDIO, I2C, LED PWM, Motor PWM, I2S, IR, pulse counter, GPIO, capacitive touch sensor, ADC, DAC, Two-Wire Automotive Interface (TWAI®), compatible with ISO11898-1 (CAN Specification 2.0).
+- Cảm biến trên chíp: Cảm biến Hall.
+- Giao động tích hợp: 40 MHz crystal.
+- SPI: 4MB.
+- Điện áp hoạt động / Nguồn cấp: 3.0 V ~ 3.6 V.
+- Dòng điện hoạt động: Trung bình 80 mA.
+- Dòng điện chuyển đổi từ nguồn cấp tối thiểu 500 mA.
+- Nhiệt độ yêu cầu để hoạt động: –40 °C ~ +85 °C.
+- Kích thước: (18.00±0.10) mm × (25.50±0.10) mm × (3.10±0.10) mm.
+- Mức nhạy với hơi ẩm (MSL): Cấp 3.
+Cấp 3
 ## Lưu ý
 Chương trình chú trọng vào phần cứng nên sẽ có ít các chức năng ngoài lề, chủ yếu tập trung vào các chức năng đặt sân và quản lý thiết bị.
 
