@@ -1,0 +1,226 @@
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.exe
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.deps.json
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.runtimeconfig.json
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.pdb
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Form1.resources
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.GenerateResource.cache
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfoInputs.cache
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfo.cs
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.CoreCompileInputs.cache
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\refint\QuanLySanCauLong.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.pdb
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.genruntimeconfig.cache
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\ref\QuanLySanCauLong.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form2.resources
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.DatSan.resources
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Properties.Resources.resources
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\HiveMQtt.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.AssemblyReference.cache
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySa.5C0CA8C1.Up2Date
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.send_email.resources
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.SanChuaDat.resources
+C:\Users\Le tuan\source\repos\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form3.resources
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.exe
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.deps.json
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.runtimeconfig.json
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.pdb
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\HiveMQtt.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\NLog.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.AssemblyReference.cache
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Properties.Resources.resources
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.DatSan.resources
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Form1.resources
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form2.resources
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form3.resources
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.send_email.resources
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.GenerateResource.cache
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfoInputs.cache
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfo.cs
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.CoreCompileInputs.cache
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySa.5C0CA8C1.Up2Date
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\refint\QuanLySanCauLong.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.pdb
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.genruntimeconfig.cache
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\ref\QuanLySanCauLong.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.SanTrong.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.exe
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.deps.json
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.runtimeconfig.json
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.pdb
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\HiveMQtt.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\NLog.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.AssemblyReference.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Properties.Resources.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.DatSan.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Form1.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form2.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form3.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.SanTrong.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.send_email.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.GenerateResource.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfoInputs.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfo.cs
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.CoreCompileInputs.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySa.5C0CA8C1.Up2Date
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\refint\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.pdb
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.genruntimeconfig.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV3\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\ref\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.exe
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.deps.json
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.runtimeconfig.json
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.pdb
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\HiveMQtt.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\NLog.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.AssemblyReference.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Properties.Resources.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.DatSan.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Form1.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form2.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form3.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.SanTrong.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.send_email.resources
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.GenerateResource.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfoInputs.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfo.cs
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.CoreCompileInputs.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySa.5C0CA8C1.Up2Date
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\refint\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.pdb
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.genruntimeconfig.cache
+D:\BAIMAUTHU\BaiHoanChinh\BanCapNhatV4\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\ref\QuanLySanCauLong.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Game\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.exe
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.deps.json
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.runtimeconfig.json
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.pdb
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\HiveMQtt.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\NLog.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.AssemblyReference.cache
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Properties.Resources.resources
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.DatSan.resources
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Form1.resources
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form2.resources
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form3.resources
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.SanTrong.resources
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.send_email.resources
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.GenerateResource.cache
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfoInputs.cache
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfo.cs
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.CoreCompileInputs.cache
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySa.5C0CA8C1.Up2Date
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\refint\QuanLySanCauLong.dll
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.pdb
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.genruntimeconfig.cache
+C:\Game\BIGUPDATE\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\ref\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.exe
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.deps.json
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.runtimeconfig.json
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.pdb
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\HiveMQtt.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\NLog.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.AssemblyReference.cache
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Properties.Resources.resources
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.DatSan.resources
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Form1.resources
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form2.resources
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form3.resources
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.SanTrong.resources
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.send_email.resources
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.GenerateResource.cache
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfoInputs.cache
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfo.cs
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.CoreCompileInputs.cache
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySa.5C0CA8C1.Up2Date
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\refint\QuanLySanCauLong.dll
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.pdb
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.genruntimeconfig.cache
+D:\BAIMAUTHU\BaiHoanChinh\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\ref\QuanLySanCauLong.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.exe
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.deps.json
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.runtimeconfig.json
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\QuanLySanCauLong.pdb
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\HiveMQtt.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\NLog.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.AssemblyReference.cache
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Properties.Resources.resources
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.DatSan.resources
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.Form1.resources
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form2.resources
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.Form3.resources
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.SanTrong.resources
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.UI.send_email.resources
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.GenerateResource.cache
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfoInputs.cache
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.AssemblyInfo.cs
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.csproj.CoreCompileInputs.cache
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySa.5C0CA8C1.Up2Date
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\refint\QuanLySanCauLong.dll
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.pdb
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\QuanLySanCauLong.genruntimeconfig.cache
+C:\Game\BIGUPDATE\FINAL\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\net6.0-windows\ref\QuanLySanCauLong.dll
