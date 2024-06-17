@@ -1,7 +1,7 @@
 # CHƯƠNG TRÌNH QUẢN LÝ SÂN CẦU LÔNG THÔNG MINH
 
 ## Giới thiệu
-Chương trình quản lý sân cầu lông thông minh với các chức năng tự động bật tắt đèn theo giờ, cảm biến nhiệt độ và bật quạt nhằm tiết kiệm điện năng và chi phí quản lý. Chương trình được phát triển với công nghệ WinForm .NET trên nền tảng .NET 6.0.
+Chương trình quản lý sân cầu lông thông minh với các chức năng tự động bật tắt đèn theo giờ, cảm biến nhiệt độ và bật quạt nhằm tiết kiệm điện năng và chi phí quản lý. Chương trình được phát triển với công nghệ WinForm .NET trên nền tảng .NET core 6.0.
 
 ## Các bước cài đặt và chạy chương trình
 
